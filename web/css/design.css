@@ -1,0 +1,27 @@
+html, body {
+  background: rgba(0, 0, 0, 0) url("../img/bg_fon.jpg") no-repeat scroll 0 100px / cover ;
+}
+.footer {
+  background: rgba(0, 0, 0, 0) url("../img/foot_bg.png") no-repeat scroll 0 0;
+  bottom: 0;
+  height: 200px;
+  left: 30%;
+  position: absolute;
+  width: 700px;
+  display:table;
+  text-align:center;
+}
+.container {
+  padding-top: 24px;
+}
+.content {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 50px;
+  padding: 15px;
+}
+.min_text {
+  color: #333;
+  display: table-cell;
+  font-size: 10px;
+  vertical-align: bottom;
+}
